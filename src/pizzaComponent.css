@@ -1,0 +1,115 @@
+.main-container {
+  color: #070d59;
+  margin: 0 auto;
+  width: 60%;
+  font-weight: bold;
+}
+
+.small {
+  font-size: 15px;
+}
+
+.medium {
+  font-size: 20px;
+}
+
+.large {
+  font-size: 25px;
+}
+
+hr {
+  width: 95%;
+}
+
+.block-container {
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.row {
+  display: flex;
+}
+
+.row > *,
+.rows > * {
+  padding: 12px;
+  width: 10%;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.row .type {
+  text-align: right;
+}
+
+.row :nth-child(1) {
+  width: 65%;
+}
+
+.rows {
+  display: flex;
+}
+
+.rows :nth-child(1) {
+  text-align: right;
+}
+
+.rows :nth-child(2) {
+  width: 65%;
+}
+
+button {
+  border: none;
+  outline: none;
+  transition: transform 100ms;
+  background-color: white;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+/* i:active {
+  transform: scale(1.3);
+} */
+
+.minus:active,.plus:active{
+  transform: scale(1.3);
+}
+
+.minus {
+  color: #070d59;
+  font-size: 30px;
+}
+
+.plus {
+  color: #e11d74;
+  font-size: 30px;
+}
+
+.disable {
+  color: #d6d2c4;
+  font-size: 30px;
+}
+
+.disable:hover{
+cursor: not-allowed;
+}
+
+img {
+  border-radius: 30px;
+  border: 2px solid;
+}
+
+.total {
+  display: flex;
+}
+
+.total > div {
+  font-size: 30px;
+  width: 50%;
+}
+
+.total :nth-child(2) {
+  text-align: right;
+}

@@ -1,0 +1,28 @@
+.container{
+    /* margin: 0 20px; */
+    text-align: center;
+}
+
+input{
+    width: 350px;
+    height: 30px;
+    border-style: none;
+    border-bottom-style: solid;
+}
+
+input[type="submit"]{
+    /* height: 25px; */
+    font-size: 20px;
+}
+
+input:focus{
+    /* height: 30px; */
+    /* outline-style: none; */
+    outline: none;
+}
+
+input[type="submit"]:hover{
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+}

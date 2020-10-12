@@ -1,0 +1,23 @@
+.container{
+    /* margin: 0 20px; */
+    text-align: center;
+}
+
+input{
+    width: 350px;
+}
+
+input[type="submit"]{
+    height: 25px;
+}
+
+input:focus{
+    height: 30px;
+    width: 400px;
+}
+
+input[type="submit"]:hover{
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+}

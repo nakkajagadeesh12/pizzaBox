@@ -1,0 +1,46 @@
+nav{
+    background-color: blueviolet;
+}
+
+nav::after{
+    content: " ";
+    clear: both;
+    display: table;
+}
+
+nav ul{
+    float: right;
+    list-style-type: none;
+}
+
+nav h1{
+    float: left;
+    padding: 15px;
+}
+
+nav ul li{
+    display: table-cell;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    color: white;
+    padding: 20px;
+}
+
+.download{
+    background-color: cadetblue;
+    display: inline;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.download:hover{
+    color: wheat;
+    cursor: pointer;
+}
