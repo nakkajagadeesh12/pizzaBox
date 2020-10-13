@@ -231,3 +231,17 @@ const mapDispatchToProps = (dispatch) => {
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(PizzaComponent);
+
+
+
+// function fun(n){
+//   var a=n;
+//   var b=n;
+//  while(n!=1 && ((a/2) >= 1)){
+//    a = Math.floor(a/2);
+//    b = b+a;
+//  }
+//   (n ==1 || n==2) ? console.log("b",b) : console.log(b+1);
+// }
+
+// fun(4);

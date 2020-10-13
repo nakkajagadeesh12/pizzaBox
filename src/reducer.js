@@ -19,7 +19,6 @@ const reducer = (state = initialState, action) => {
       if (type === "adults" || type === "children") {
         updateType = type === "adults" ? "medium" : "small";
       } else {
-        console.log(count[type]);
         updateType = type === "small" ? "children" : "adults";
         incBy = type === "large" ? 2 : 1;
       }
