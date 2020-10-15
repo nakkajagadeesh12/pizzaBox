@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pizzaBox/static/css/main.0b2dbebd.chunk.css",
+    "main.css": "/pizzaBox/static/css/main.9b5a2b8e.chunk.css",
     "main.js": "/pizzaBox/static/js/main.a8b79cd2.chunk.js",
     "main.js.map": "/pizzaBox/static/js/main.a8b79cd2.chunk.js.map",
     "runtime-main.js": "/pizzaBox/static/js/runtime-main.624170ef.js",
@@ -8,9 +8,9 @@
     "static/js/2.a5b8b484.chunk.js": "/pizzaBox/static/js/2.a5b8b484.chunk.js",
     "static/js/2.a5b8b484.chunk.js.map": "/pizzaBox/static/js/2.a5b8b484.chunk.js.map",
     "index.html": "/pizzaBox/index.html",
-    "precache-manifest.ee2c4621dc45accdf9154fdf7cffc225.js": "/pizzaBox/precache-manifest.ee2c4621dc45accdf9154fdf7cffc225.js",
+    "precache-manifest.c971dfe89664b6f922ecad96eb98385b.js": "/pizzaBox/precache-manifest.c971dfe89664b6f922ecad96eb98385b.js",
     "service-worker.js": "/pizzaBox/service-worker.js",
-    "static/css/main.0b2dbebd.chunk.css.map": "/pizzaBox/static/css/main.0b2dbebd.chunk.css.map",
+    "static/css/main.9b5a2b8e.chunk.css.map": "/pizzaBox/static/css/main.9b5a2b8e.chunk.css.map",
     "static/js/2.a5b8b484.chunk.js.LICENSE.txt": "/pizzaBox/static/js/2.a5b8b484.chunk.js.LICENSE.txt",
     "static/media/minus.svg": "/pizzaBox/static/media/minus.65666f57.svg",
     "static/media/plus.svg": "/pizzaBox/static/media/plus.a5edc4bd.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.624170ef.js",
     "static/js/2.a5b8b484.chunk.js",
-    "static/css/main.0b2dbebd.chunk.css",
+    "static/css/main.9b5a2b8e.chunk.css",
     "static/js/main.a8b79cd2.chunk.js"
   ]
 }
